@@ -58,12 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-<<<<<<< HEAD
 SocketProgramming/Library/Artifacts
 SocketProgramming/Temp/
 SocketProgramming/Logs/
 SocketProgramming/Library/ShaderCache
-=======
 SocketProgramming/Temp/UnityLockfile
-
->>>>>>> de5fd6fa2fab29820650391ada3a133b3cf07caf
